@@ -9,7 +9,7 @@
   <a href="https://www.w3schools.com/c/index.php/"><img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
   </div>
   <img align="right" alt="charizard-y" height="150" style="border-radius:75px;"src="https://i.pinimg.com/originals/d9/e5/87/d9e58779a9781b9d6637899541102f28.gif">
-  <img align="right" alt="charizard-x" height="150" style="border-radius:75px;"https://i.pinimg.com/originals/a8/a4/56/a8a4561433ee9fd5e4aef69e930bff79.gif">
+  <img align="right" alt="charizard-x" height="150" style="border-radius:75px;"src="https://i.pinimg.com/originals/a8/a4/56/a8a4561433ee9fd5e4aef69e930bff79.gif">
 
   
   ##
