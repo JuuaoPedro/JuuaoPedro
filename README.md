@@ -8,7 +8,7 @@
   <a href="https://www.w3schools.com/css/"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <a href="https://www.w3schools.com/c/index.php/"><img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
   </div>
-  <img align="right" alt="pikachu" height="150" style="border-radius:75px;" src="https://pa1.narvii.com/6212/4e6e27e99d2854c495b67a950b2d938236194734_hq.gif">
+  <img align="right" alt="charizard-x" height="150" style="border-radius:75px;" src="https://i.pinimg.com/originals/d9/e5/87/d9e58779a9781b9d6637899541102f28.gif">
 
   
   ##
