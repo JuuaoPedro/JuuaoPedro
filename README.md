@@ -16,9 +16,6 @@
 <div> 
   <a href="https://www.instagram.com/_joaopedruo/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/31ptymwnyuhhkf3a3tn2qefi6q7q" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-
- 
-  ![Snake animation](https://github.com/buzzfps/buzzfps/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
