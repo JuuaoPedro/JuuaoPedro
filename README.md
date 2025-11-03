@@ -6,7 +6,12 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuuaoPedro&layout=compact&langs_count=7&theme=dark"/>
   </a>
 
-  <!-- Ícones de skills -->
+  <!-- Imagem à direita -->
+  <img align="right" alt="charizard-x" height="150" style="border-radius:75px;" src="https://i.pinimg.com/originals/a8/a4/56/a8a4561433ee9fd5e4aef69e930bff79.gif">
+
+  <br><br><br><br>
+
+ <!-- Ícones de skills -->
   <div style="display: inline-block; margin-top: 10px;">
     <a href="https://www.w3schools.com/html/default.asp">
       <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,11 +23,6 @@
       <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
     </a>
   </div>
-
-  <!-- Imagem à direita -->
-  <img align="right" alt="charizard-x" height="150" style="border-radius:75px;" src="https://i.pinimg.com/originals/a8/a4/56/a8a4561433ee9fd5e4aef69e930bff79.gif">
-
-  <br><br><br><br>
 
   <!-- Badges sociais -->
   <div>
